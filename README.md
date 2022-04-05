@@ -1,2 +1,3 @@
-# ds-atividade-login
-Atividade de DS
+# Projeto Login
+Atividade da disciplina de DS.
+Prof. João
